@@ -87,7 +87,18 @@
       8,
       9
     ],
-    "col_widths": [],
+    "col_widths": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
     "custom_group_rules": [],
     "expanded_rows": [],
     "filter_by_net_name": true,
@@ -98,11 +109,23 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": -1
+    "sorting_column": 0
   },
   "open_jobsets": [],
   "project": {
     "files": [
+      {
+        "name": "arcade-controller.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 587,
+          "size_y": 837
+        }
+      },
       {
         "name": "arcade-controller.kicad_sch",
         "open": true,
@@ -111,8 +134,8 @@
           "maximized": true,
           "pos_x": 0,
           "pos_y": 0,
-          "size_x": 913,
-          "size_y": 481
+          "size_x": 800,
+          "size_y": 962
         }
       }
     ]
