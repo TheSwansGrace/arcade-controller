@@ -113,32 +113,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "arcade-controller.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 587,
-          "size_y": 837
-        }
-      },
-      {
-        "name": "arcade-controller.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 800,
-          "size_y": 962
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
