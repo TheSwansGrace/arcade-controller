@@ -116,7 +116,7 @@
     "files": [
       {
         "name": "arcade-controller.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
@@ -128,7 +128,7 @@
       },
       {
         "name": "arcade-controller.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
